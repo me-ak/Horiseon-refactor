@@ -82,7 +82,8 @@ p {
     float: right;
     margin-left: 25px;
     position:relative;
-    left: 10000px;
+    left: 1000px;
+    text-align: ;
 }
 
 .content {
