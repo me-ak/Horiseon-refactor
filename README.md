@@ -1,7 +1,12 @@
+
 # Horiseon-refactor
-gdf
+
+## HTML file
+
 The HTML file creates a simple marketing website for a company named "Horiseon". 
+
 The website has a header with the company name and a navigation menu. 
+
 The main content of the website consists of three sections: 
 -"Search Engine Optimization", 
 -"Online Reputation Management", 
@@ -11,12 +16,15 @@ There are also brief comments on the Benefits, this can be seen in the three asi
 -"Brand Awareness",  
 -"Cost Management".
 
+## CSS file
+
 The CSS file looks at how the website has been styled. 
+
 The styles include:
  -defining the background color of the body and header, 
  -font families,
- -font sizes, 
- -font colors for the text.
+ -font
+ 
  Also included is the padding, margins, and positioning used for various elements such as:
  - the Header,
  - the Navbar, 
