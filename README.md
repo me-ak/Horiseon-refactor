@@ -1,9 +1,13 @@
 
 # Horiseon-refactor
 
+## Prerequisites
+
+A basic understanding IT and the use of social media in running a business.
+
 ## HTML file
 
-The HTML file creates a simple marketing website for a company named "Horiseon". 
+The HTML file creates a simple marketing website for a company named **Horiseon**. 
 
 The website has a header with the company name and a navigation menu. 
 
@@ -38,3 +42,16 @@ The styles include:
 The footer section is also styled with padding, font family and size. 
 
 The code uses CSS selectors, properties and values to target specific HTML elements and apply the specified styles to them.
+
+## Author(s)
+
+Mehnaz Akhtar
+
+## Verion History
+
+1. 0.1
+    - Initial Release
+
+## Acknowledgments
+
+I would like to thank *Meedaxa Ahmed* and *Dylson Oliveira* for all their hard work and support in teaching me **HTML** and **CSS** from ***scratch***.
