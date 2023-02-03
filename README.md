@@ -30,8 +30,8 @@ The styles include:
  - the Navbar, 
  - the hero section, 
  - the Benefits section,
- - the Search Engine Optimization article, 
- - the Online Reputation Management article,
- - the Social Media Marketing article. 
+ - the Search Engine Optimization section, 
+ - the Online Reputation Management section,
+ - the Social Media Marketing section. 
 
 The footer section is also styled with padding, font family and size. The code uses CSS selectors, properties and values to target specific HTML elements and apply the specified styles to them.
