@@ -54,7 +54,7 @@ The code uses CSS selectors, properties and values to target specific HTML eleme
 
 ## Author(s)
 
-Mehnaz Akhtar
+me-ak
 
 ## Version History
 
